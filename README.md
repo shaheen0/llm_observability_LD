@@ -17,6 +17,8 @@ cd llm_observability
 
 ```bash
 uv sync
+#or
+uv pip install -r requirements.txt
 ```
 
 ---
