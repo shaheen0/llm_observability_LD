@@ -74,7 +74,7 @@ You'll see: token usage, cost, latency, request count.
 
 ## How It Works
 
-**Real example:** You're monitoring AI summarization costs.
+**Real example:** monitoring AI summarization costs.
 - User sends text → OpenAI processes it → You get summary
 - Meanwhile: token count, API cost, response time all tracked automatically in LaunchDarkly
 - Result: You see "Each summary = 150 tokens = $0.05" → Can optimize or set cost alerts
