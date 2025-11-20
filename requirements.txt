@@ -1,0 +1,14 @@
+launchdarkly-server-sdk==9.12.0
+launchdarkly-server-sdk-ai
+launchdarkly-observability
+opentelemetry-instrumentation-openai==0.40.14
+launchdarkly-server-sdk-otel
+opentelemetry-exporter-otlp
+opentelemetry-sdk
+fastapi
+uvicorn
+fastapi-cli
+openai
+python-dotenv
+openai
+requests
